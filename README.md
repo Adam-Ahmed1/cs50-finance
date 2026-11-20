@@ -4,7 +4,7 @@ A stock-trading simulator built with **Python, Flask, SQLite, and Jinja**, compl
 
 Users manage a virtual portfolio: look up a stock, buy and sell shares with simulated cash, and review their transaction history. New accounts start with **$10,000 in virtual cash**.
 
-[Project walkthrough](https://doma990.github.io/projects/cs50-finance/) · [Original 2022 assignment](https://cs50.harvard.edu/college/2022/fall/psets/9/finance/)
+[Project walkthrough](https://Adam-Ahmed1.github.io/projects/cs50-finance/) · [Original 2022 assignment](https://cs50.harvard.edu/college/2022/fall/psets/9/finance/)
 
 ## What I implemented
 
